@@ -25,7 +25,9 @@ f() { a="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";s=$(c
 ```
 
 ### Option 2.1: Script File via curl
-```curl -sL https://github.com/ultrapg/oneliner_maker/raw/refs/heads/main/sh2one.sh | bash -s -- /pfad/zu/deinem/script.sh```
+``` bash
+curl -sL https://github.com/ultrapg/oneliner_maker/raw/refs/heads/main/sh2one.sh | bash -s -- /pfad/zu/deinem/script.sh
+```
 
 ### Option 2.2: Script File locally
 ``` bash
