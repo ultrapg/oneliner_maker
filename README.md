@@ -81,6 +81,12 @@ Requires Bash 4.0+ (for printf '%d' "'char" syntax)
 
 Binary data in scripts may not encode correctly (text-only)
 
+---
+
+## License
+
+GNU General Public License v3.0
+
 Large scripts (>100KB) will be slow due to pure Bash implementation
 
 One-liner output length is ~4/3 of original due to Base64 overhead
