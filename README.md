@@ -85,7 +85,6 @@ Large scripts (>100KB) will be slow due to pure Bash implementation
 
 One-liner output length is ~4/3 of original due to Base64 overhead
 
----
 
 ## License
 
